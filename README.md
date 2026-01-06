@@ -4,6 +4,17 @@
 ### <div align="center">Junior Full-Stack Developer (React.js, Django)</div>  
   
 
+Mohammadreza Shirzad is a Computer Engineering undergraduate student at the University of Tehran with a long-standing passion for computers and digital creation. His journey in technology began at a young age through visual design, working on everything from banner and thumbnail design to 2D motion graphics.
+
+Driven by a deeper interest in how systems work, Mohammadreza gradually transitioned into programming, starting with Python. With his background in design, he also learned JavaScript, enabling him to build complete web projects from concept to deployment.
+
+He is currently focused on full-stack web development, combining backend logic with frontend experience to create scalable and well-designed applications. His learning-oriented mindset keeps him constantly exploring new technologies and improving both his technical and creative skills.
+
+
+
+  
+  
+
 - 🔭 I’m currently working on building scalable web applications and platforms  
   
 
@@ -29,7 +40,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -62,7 +73,7 @@
 
 
 
-### DevOps  
+### Other Skills  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
