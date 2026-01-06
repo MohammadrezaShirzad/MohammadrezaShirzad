@@ -41,7 +41,7 @@ He is currently focused on full-stack web development, combining backend logic w
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table width="100%"><tr><td valign="top" width="100%">
 
 
 
