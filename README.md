@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="center">Junior Full-Stack Developer (React.js, Django)</h3>
+<h3 align="center">Junior Full-Stack Developer</h3>
 
 ###
 
